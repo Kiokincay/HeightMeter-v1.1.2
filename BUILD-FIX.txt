@@ -1,0 +1,7 @@
+Height Meter v1.1.2 build fix
+
+Fixes:
+- Enables BuildConfig generation required by MainActivity.java on Android Gradle Plugin 8+.
+- Sets Java source/target compatibility to Java 17.
+- Installs Android API 35 and Build Tools 35.0.0 explicitly in GitHub Actions.
+- Updates APK/artifact names to v1.1.2.
